@@ -1,0 +1,20 @@
+# Data files
+*.csv
+*.tsv
+*.json
+*.xml
+*.xls
+*.xlsx
+*.npz
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
